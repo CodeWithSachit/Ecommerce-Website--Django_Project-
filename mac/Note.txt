@@ -1,0 +1,81 @@
+
+
+In this  we Learn about the template inharitance ----->31
+In this we learn abouat the Logic, How to manage the slides------>32
+
+
+
+.... we Know the DRY (Do Not Repeat Yourself) principle we learn about whyt to inherit the template beacuse we need use our  code again and again so beacuse of  that we have to use inharitance beacuse of this we save our time ,manitain the code readability . 
+we use 
+
+{%block title} {%endblock%}
+{%block CSS} {%endblock%}
+{%block body } {%endblock%}
+
+You can chech the video 31 .
+
+
+We can learn How set the slides  according to the user 
+oders---- [n//4 + ceil(n/a  - n//4)]
+
+
+Note: forloop . counter always starts from 1
+
+
+
+Thi video we learn from -------------------------> 31
+Template Inheritance In Django -------------------------> 32
+Logic For Showing Products On Homepage -------------------------> 33
+Showing Products On The Homepage -------------------------> 34
+Showing Multiple Product Slides On Homepage -------------------------> 35
+Creating an Online Shopping Cart Using JavaScript  -----------------------> 36
+Exercise 3: Solution  -----------------------> 37
+Improving Slider Logic & Adding Cart Items Count  -----------------------> 38
+Adding Bootstrap Row & Some CSS -----------------------> 39
+Adding Cart PopOver & Other Pages Using Bootstrap-----------------------> 40
+E Commerce Website: Creating Product Page-----------------------> 41
+E Commerce Website: Creating Contact Page + Database --------------------> 42
+Exercise 3: Improving Cart Of Our E commerce Website --------------------> 43
+Creating Add and Remove Buttons For Items In Cart  --------------------> 44
+    we align the the Items with ( class="card align-items-center" )
+Creating A Cart In Navigation Bar As Popover --------------------> 45
+Exercise 3: Solutions + Shoutouts --------------------> 46
+Adding Checkout & ClearCart Buttons --------------------> 47
+Creating The Checkout Page --------------------> 48
+Adding Items On Checkout Page --------------------> 49
+Creating Database Entry For Orders --------------------> 50
+Creating Order Tracker For Customers --------------------> 51
+Django Exercise 4: Display Prices --------------------> 52
+E-Commerce Website: Displaying Order Items In Tracker--------------------> 53
+Django Solution To Exercise 4: Display Prices --------------------> 54
+Merging Blog App Into The Shop UI --------------------> 55
+Django Website TextUtils: Pull Requests --------------------> 56
+Django Website My Awesome Cart: Pull Requests  --------------------> 57
+My Awesome Cart: Creating The Blog --------------------> 58
+Creating Models For Blog In Our E-Commerce Website  --------------------> 59
+Django Exercise 5: BlogPosts --------------------> 60
+Creating a Django Post Page For Displaying Blog Content  --------------------> 61
+Designing The Blog Home Page --------------------> 62
+Django Exercise 5: Solution + Shoutouts  --------------------> 63
+Linking Django Blog Posts To Blog Home  --------------------> 64
+Integrating Facebook Like, Comments & Shares In Django Blog  --------------------> 65
+
+
+
+  This is important :  
+Integrating Payment Gateway: PayTM, UPI, Cards & NetBanking | Python Django  --------------------> 66
+
+
+
+
+
+Creating Product Search Feature In Our E Commerce Website --------------------> 67
+Fixing A Bug In Django E Commerce Website Tracker  --------------------> 68
+IntegratReset Forgotten Admin Password In Django --------------------> 69
+
+
+ This is important:
+Hosting Django Website On Ubuntu VPS --------------------> 70
+
+
+
